@@ -1,0 +1,6 @@
+{
+  "name": "treo-typescript-definition",
+  "version": "1.0.0",
+  "types": "treo.d.ts",
+  "license": "MIT"
+}
